@@ -1,0 +1,19 @@
+{
+	"name": "deoxis9001/DiscordBotQuizz",
+	"description": "BotQuizz",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "deoxis9001",
+			"email": "deoxis9001@pokemon-triforce.ze.cx",
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"botquizz": "src/"
+		}
+	},
+    "require": {
+        "team-reflex/discord-php": "v4.x-dev"
+    }
+}
