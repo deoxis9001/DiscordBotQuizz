@@ -1,16 +1,16 @@
 {
-	"name": "deoxis9001/DiscordBotQuizz",
+	"name": "deoxis9001/Discord-Bot-Quizz",
 	"description": "BotQuizz",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "deoxis9001",
-			"email": "deoxis9001@pokemon-triforce.ze.cx",
+			"email": "deoxis9001@pokemon-triforce.ze.cx"
 		}
 	],
 	"autoload": {
 		"psr-0": {
-			"botquizz": "src/"
+			"BotQuizz": "src/"
 		}
 	},
     "require": {
